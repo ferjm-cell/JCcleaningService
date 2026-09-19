@@ -1,0 +1,14 @@
+{
+  "name": "Cleaning Multi Service JC",
+  "short_name": "Cleaning MSJC",
+  "description": "Business operating system for Cleaning Multi Service JC — clients, estimates, schedule, invoices and financials.",
+  "start_url": "./Cleaning%20MSJC.dc.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "assets/logo-clean-shine-fresh.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
